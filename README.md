@@ -18,7 +18,7 @@ A personal resume website built with **React (Vite)**, showcasing education, ski
 - Deployed on Vercel
 
 ## 🌐 Live Demo
-[https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+[https://react-resume-nu-ashy.vercel.app/]
 
 ## 💡 Challenges
 - Deciding between Tailwind and CSS 

@@ -29,7 +29,7 @@ image: "/images/portfolio.png"
   {
     title: "Todo App",
     description: "A task management app with React hooks and localStorage for persistence.",
-    link: "#",
+    link: "https://smart-task-manager-final.vercel.app/",
 image: "/images/todo-app.png"
   },
   {
